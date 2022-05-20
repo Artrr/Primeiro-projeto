@@ -1,0 +1,19 @@
+{
+  "name": "primeiroprojeto",
+  "version": "1.0.0",
+  "description": "Bem vindos ao meu primeiro projeto ================================== Autor: Arthur E. Faria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artrr/Primeiro-projeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artrr/Primeiro-projeto/issues"
+  },
+  "homepage": "https://github.com/Artrr/Primeiro-projeto#readme"
+}
